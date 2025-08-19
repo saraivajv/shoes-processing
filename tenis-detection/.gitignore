@@ -1,0 +1,9 @@
+/test
+/train
+/valid
+/runs
+/venv
+
+*.pt
+*.zip
+*.mp4
